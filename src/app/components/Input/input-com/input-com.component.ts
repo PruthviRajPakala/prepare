@@ -6,7 +6,7 @@ import { InputCom1Component } from '../input-com1/input-com1.component';
   standalone: true,
   imports: [InputCom1Component],
   templateUrl: './input-com.component.html',
-  styleUrl: './input-com.component.css'
+  // styleUrl: './input-com.component.css'
 })
 export class InputComComponent {
 
